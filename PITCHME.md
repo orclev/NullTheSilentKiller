@@ -197,7 +197,9 @@ to handle the case where there is no Baz value on that instance of Foo.
 
 ---
 
-`someOptional.get()` ಠ_ಠ
+`someOptional.get()` 
+
+# ಠ_ಠ
 
 Note:
 Optional isn't a silver bullet however. You can still get into trouble if you use it
